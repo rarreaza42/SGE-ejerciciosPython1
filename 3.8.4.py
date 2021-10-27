@@ -41,7 +41,4 @@ def VectorUnitario(x1, y1, x2, y2):
     norma = normaVector(x3, y3)
     return (x3 / norma), (y3/norma)
 
-# 6) Escribir una función que reciba un punto (x, y), una dirección unitaria de una recta (dx, dy)
-# y un punto perteneciente a esa recta (cx, cy) y devuelva la proyección del punto sobre la recta.
-
 
